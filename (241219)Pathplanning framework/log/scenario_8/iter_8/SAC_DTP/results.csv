@@ -1,0 +1,2 @@
+timestamp,algorithm,scenario,iteration,total_distance,collision_count,min_obstacle_distance,reached_goal,execution_time,operation_time
+20250109_023144,SAC_DTP,8,8,113.23265615301979,0,5.253269341178873,False,8.588054180145264,107.49999999999928

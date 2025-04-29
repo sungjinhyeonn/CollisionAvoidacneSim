@@ -1,0 +1,2 @@
+timestamp,algorithm,scenario,total_distance,collision_count,min_obstacle_distance,reached_goal,execution_time,operation_time
+20241230_215151,DDPG,1,0.0,0,inf,False,27.341918468475342,0.0

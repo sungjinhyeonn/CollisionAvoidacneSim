@@ -1,0 +1,5 @@
+,total_distance,total_distance,total_distance,total_distance,collision_count,collision_count,collision_count,collision_count,min_obstacle_distance,min_obstacle_distance,min_obstacle_distance,min_obstacle_distance,operation_time,operation_time,operation_time,operation_time,execution_time,execution_time,execution_time,execution_time
+,mean,std,min,max,mean,std,min,max,mean,std,min,max,mean,std,min,max,mean,std,min,max
+algorithm,,,,,,,,,,,,,,,,,,,,
+DDPG,110.72,9.78,105.83,138.01,0.2,0.42,0,1,1.78,1.1,0.16,3.31,98.99,10.82,88.0,123.9,7.16,0.83,6.23,9.03
+DDPG_DTP,108.68,1.35,106.26,111.09,0.3,0.67,0,2,1.57,0.83,0.12,3.09,99.28,6.9,90.6,111.8,7.24,0.49,6.57,7.98

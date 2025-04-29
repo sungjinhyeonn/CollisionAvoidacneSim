@@ -1,0 +1,13 @@
+{
+    "trial_number": 2,
+    "reward": 422.59381176507407,
+    "parameters": {
+        "learning_rate": 0.00018615938345236898,
+        "batch_size": 224,
+        "buffer_size": 90000,
+        "gamma": 0.9461430574643975,
+        "tau": 0.0012631941767371425,
+        "train_freq": 2,
+        "gradient_steps": 4
+    }
+}
